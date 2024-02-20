@@ -1,4 +1,4 @@
-# 3 grid
+# Календарь
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Yulia-Aseeva/pen/MWLVRgB](https://codepen.io/Yulia-Aseeva/pen/MWLVRgB).
+Проект был создан в песочнице Codepen.io: [https://codepen.io/Yulia-Aseeva/pen/MWLVRgB](https://codepen.io/Yulia-Aseeva/pen/MWLVRgB).
 
